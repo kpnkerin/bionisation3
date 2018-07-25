@@ -2,7 +2,7 @@ itemGroup.Bionisation = Bionisation 3
 
 tile.blockherbalstation.name = 허브 스테이션
 tile.blockdisinfector.name = 소독기
-tile.blockvaccinecreator.name = 백신 작성자
+tile.blockvaccinecreator.name = 백신 제조기
 tile.blockdnaformer.name = DNA Former
 tile.blockvirusreplicator.name = 바이러스 복제기
 tile.garlic.name = 마늘
